@@ -1,0 +1,28 @@
+.Calculator {
+  height: 600px;
+  display: block;
+  width: 400px;
+  margin: 0px auto;
+  padding: 40px;
+}
+
+
+.Logs{
+  font-family: "Lucida Console";
+  box-sizing: border-box;
+  margin: 40px auto;
+  height: 270px;
+  display: block;
+  background-color: black;
+  color: #63de00;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0 7px;
+  margin: 0;
+}
+
+li{
+  line-height: 1.5rem;
+}
