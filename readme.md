@@ -1,5 +1,6 @@
 # FullStack Calculator
 Welcome! Compute as much as you want!
+Allows real time logging!
 
 ## How To Use
 
@@ -13,8 +14,7 @@ npm start
 make sure you change the database address in backend/server.js to your own :)
 
 Or go to:
-
-
+https://afternoon-badlands-72121.herokuapp.com/
 
 
 ## TechStack
